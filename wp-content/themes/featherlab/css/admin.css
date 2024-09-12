@@ -1,0 +1,21 @@
+#postbox-container-2 .label {
+	display: flex;
+	width: 100%;
+	align-items: center;
+	margin-bottom: 15px;
+}
+
+#postbox-container-2 .textarea {	
+	margin-bottom: 15px;
+}
+
+#postbox-container-2 .label > span {
+	display: block;
+	width: 50%;
+	text-align: right;
+	padding-right: 30px;
+}
+
+#postbox-container-2 .label .select {	
+	width: 50%;	
+}
