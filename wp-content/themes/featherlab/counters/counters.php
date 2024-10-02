@@ -1,0 +1,1 @@
+<script async src="https://culturaltracking.ru/static/js/spxl.js?pixelId=22986" data-pixel-id="22986"></script>

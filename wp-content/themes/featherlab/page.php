@@ -2,7 +2,7 @@
 
     get_header('old');
 
-    get_sidebar('common');
+    // get_sidebar('common');
 
 ?>
 

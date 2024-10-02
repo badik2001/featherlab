@@ -17,6 +17,10 @@
 		</div>		
 	</div>
 </footer>
-
+<script>
+	$(function() {
+		$("#accordion").accordion();
+	});
+</script>
 </body>
 </html>

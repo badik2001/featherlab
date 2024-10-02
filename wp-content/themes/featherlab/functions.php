@@ -3,9 +3,9 @@
 // подключаем стили и скрипты
 add_action( 'wp_enqueue_scripts', 'theme_name_scripts' );
 
-function theme_name_scripts() {
-	wp_enqueue_style( 'common-styles', get_template_directory_uri() . '/css/styles.css', [], date("HmsdmY"), "all" );
-	wp_enqueue_style( 'grid', get_template_directory_uri() . '/css/grid.css', [], date("HmsdmY"), "all" );
+function theme_name_scripts() {	
+	wp_enqueue_style( 'grid', get_template_directory_uri() . '/css/grid.css', [], date("Ymdhms"), "all" );
+	wp_enqueue_style( 'common-styles', get_template_directory_uri() . '/css/styles.css', [], date("Ymdhms"), "all" );
 	wp_enqueue_script( 'common', get_template_directory_uri() . '/js/common.js', array(), '1.0.0', true );
 }
 

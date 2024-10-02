@@ -22,18 +22,13 @@ get_header();
 	</div>
 </section>
 
-<div class="container">
-	<div class="row align-items-center justify-content-center">
-		<div class="" style="font-size: 1.5rem; font-weight: bold; font-family: sans;">Сайт находится в разработке, дата релиза 30.11.2023г</div>
-	</div>
-</div>
 
 
 <section class="section feather-compilations">
 	<div class="container">
 		<div class="row no-gutters">
 			
-			<h2 class="h2">
+			<h2 class="h2 front-page">
 				Подборки фотографий перьев
 			</h2>
 			
@@ -80,7 +75,7 @@ get_header();
 <section class="section feather-collection-by">
 	<div class="container">
 		<div class="row no-gutters">
-			<h2 class="h2">
+			<h2 class="h2  front-page">
 				Коллекция перьев
 			</h2>
 		</div>
@@ -106,10 +101,10 @@ get_header();
 	</div>	
 </section>
 
-<section class="section">
+<section class="section new-on-forum">
 	<div class="container">
 		<div class="row no-gutters">
-			<h2 class="h2">
+			<h2 class="h2 front-page">
 				Новое на форуме
 			</h2>
 		</div>
